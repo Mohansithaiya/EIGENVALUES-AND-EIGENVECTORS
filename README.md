@@ -1,4 +1,5 @@
-# EIGENVALUES-AND-EIGENVECTORS
+# DATE:
+# EX.NO.04 EIGENVALUES-AND-EIGENVECTORS
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 
@@ -29,7 +30,8 @@ print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
 ```
 ## Output:
 
-![alt text](<Screenshot 2024-04-11 142319.png>)
+![Screenshot 2024-09-03 215307](https://github.com/user-attachments/assets/137fa64d-8a5d-4106-83bd-d2efc8b57928)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
